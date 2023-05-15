@@ -12,7 +12,7 @@ categories:
 
 Druid允许您构建可部署在Windows、macOS、Linux和web上的简单交互式图形应用程序。Druid是一个数据驱动的声明性框架。
 
-![](https://kun.nwyp123.com/20230223143051.png)
+![](https://pic.tianqinote.com/20230223143051.png)
 
 
 ## 一、创建rust项目。
@@ -96,7 +96,7 @@ drwxr-xr-x  2 tianqi tianqi 4.0K  2月 23 13:53 examples
 drwxr-xr-x  2 tianqi tianqi 4.0K  2月 23 13:53 incremental
 ```
 
-![](https://kun.nwyp123.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230223144603.jpg)
+![](https://pic.tianqinote.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230223144603.jpg)
 
 PS:
 

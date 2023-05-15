@@ -61,15 +61,15 @@ Docker 也专门开发了可以使用 WSL2 中的 Docker 守护进程的桌面�
 
 启动Docker Desktop for Windows，点击“设置”按钮，启用基于WSL2的引擎复选框（Use the WSL 2 based engine）
 
-![](https://kun.nwyp123.com/20230130153846.png)
+![](https://pic.tianqinote.com/20230130153846.png)
 
 在 Resources 的WSL Integration中设置要从哪个 WSL2 发行版中访问 Docker，如下图使用的是openEuler
 
-![](https://kun.nwyp123.com/20230130153942.png)
+![](https://pic.tianqinote.com/20230130153942.png)
 
 重启 Docker desktop for Windows，重启完成后我们就可以在 WSL2里面使用 docker 命令了
 
-![](https://kun.nwyp123.com/20230130154048.png)
+![](https://pic.tianqinote.com/20230130154048.png)
 
 ## 部署静态网站
 
@@ -146,4 +146,4 @@ flyctl deploy --local-only
 flyctl open
 ```
 
-![](https://kun.nwyp123.com/20230130160331.png)
+![](https://pic.tianqinote.com/20230130160331.png)

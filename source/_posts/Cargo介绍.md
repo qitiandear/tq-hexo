@@ -25,7 +25,7 @@ cargo --version
 cargo new blog_cargo
 ```
 
-![](https://kun.nwyp123.com/20221229144156.png)
+![](https://pic.tianqinote.com/20221229144156.png)
 
 2. 目录解析
 

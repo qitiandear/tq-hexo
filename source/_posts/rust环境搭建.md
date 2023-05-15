@@ -38,13 +38,13 @@ source "$HOME/.cargo/env"
 cargo -V
 ```
 
-![](https://kun.nwyp123.com/20221213131919.png)
+![](https://pic.tianqinote.com/20221213131919.png)
 
 ``` bash
 rustc -V
 ```
 
-![](https://kun.nwyp123.com/20221213131948.png)
+![](https://pic.tianqinote.com/20221213131948.png)
 
 ### 国内配置rust的下载镜像（可选）
 
@@ -53,7 +53,7 @@ cd .cargo
 ls
 ```
 
-![](https://kun.nwyp123.com/20221213132308.png)
+![](https://pic.tianqinote.com/20221213132308.png)
 
 查看是否存在config文件，如果没有创建config文件，然后编辑输入一下内容：
 

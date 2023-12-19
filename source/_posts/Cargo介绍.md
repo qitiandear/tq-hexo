@@ -25,7 +25,7 @@ cargo --version
 cargo new blog_cargo
 ```
 
-![](https://pic.tianqinote.com/20221229144156.png)
+![](https://cdn.jsdelivr.net/gh/qitiandear/qtpic/20221229144156.png)
 
 2. 目录解析
 

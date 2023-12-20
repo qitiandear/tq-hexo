@@ -141,7 +141,7 @@ const { proxy }  = getCurrentInstance()
 ```
 这样我们就可以使用 `$parent` 、`$refs` 等，干自己想干的事情了，下面是我打印出来的 `ctx` 的完整属性。
 
-![](https://cdn.jsdelivr.net/gh/qitiandear/qtpic/20230106144156.png)
+![](https://cdn.jsdelivr.net/gh/qitiandear/qtpic/img/20230106144156.png)
 
 注意：`ctx` 只能在开发环境使用，生成环境为 `undefined` 。 推荐使用 `proxy` ，在开发环境和生产环境都可以使用。
 
